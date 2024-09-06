@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+<title>Notifications</title>
+<link>https://quicktravel.com/index.html</link>
+<description>Notifications from Quick Travel</description>
+<item>
+<title>Promotion</title>
+<link>https://quicktravel.com/book-now.html</link>
+<description>Book now you favourite destination for 30% off!</description>
+</item>
+<item>
+<title>New destination</title>
+<link>https://quicktravel.com/book-now</link>
+<description>From today you can go to Hawaii with Quick travel! Book now!</description>
+</item>
+</channel>
+</rss>
